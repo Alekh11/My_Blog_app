@@ -11,8 +11,8 @@ A blog application, similar to Medium. This dynamic blog app uses MERN stack (Mo
 ### Unique Features:
 
 - User Interface : Minimal, interactive and functional user interface 
--Database Management: MongoDB, a NoSQL database, to store and manage your blog content efficiently.
--Data Retrieval and Storage: CRUD operations to interact with the database, allowing users to create, read, update, and delete blog posts.
+- Database Management: MongoDB, a NoSQL database, to store and manage your blog content efficiently.
+- Data Retrieval and Storage: CRUD operations to interact with the database, allowing users to create, read, update, and delete blog posts.
 - User Authentication and Security: User authentication and authorization to protect blog content and user data.
 
 
